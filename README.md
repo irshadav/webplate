@@ -1,4 +1,4 @@
-Webplate Framework
+Webplate Framework - Made some changes
 ========
 
 An awesome front-end framework that lets you stay focused on building your site or app all the while remaining really easy to use.
